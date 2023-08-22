@@ -1,0 +1,7 @@
+﻿################################################################################
+# Diese .gitignore-Datei wurde von Microsoft(R) Visual Studio automatisch erstellt.
+################################################################################
+
+/.vs/Simple-PowerShell-HTTP-File-Server/FileContentIndex
+/.vs/Simple-PowerShell-HTTP-File-Server/v17
+/.vs
